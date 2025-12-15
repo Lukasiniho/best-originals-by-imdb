@@ -1,0 +1,2132 @@
+[
+  {
+    "id": "tt0185906",
+    "title": "Band of Brothers",
+    "year": "2001",
+    "rating": 9.4,
+    "votes": 581000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0185906/"
+  },
+  {
+    "id": "tt7366338",
+    "title": "Chernobyl",
+    "year": "2019",
+    "rating": 9.3,
+    "votes": 995082,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt7366338/"
+  },
+  {
+    "id": "tt0306414",
+    "title": "The Wire",
+    "year": "2002–2008",
+    "rating": 9.3,
+    "votes": 420206,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWYyNmRhYjktNjBhNC00M2NhLWEzYmMtZDYwNmIyZTRiZWMzXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0306414/"
+  },
+  {
+    "id": "tt9253866",
+    "title": "Our Planet",
+    "year": "2019–2023",
+    "rating": 9.2,
+    "votes": 61000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDE1NzlkNWMtNzFiMC00ZTgxLTgyMmItOTU5OGI2NWQ4MDMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt9253866/"
+  },
+  {
+    "id": "tt0944947",
+    "title": "Game of Thrones",
+    "year": "2011–2019",
+    "rating": 9.2,
+    "votes": 2510560,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0944947/"
+  },
+  {
+    "id": "tt0141842",
+    "title": "The Sopranos",
+    "year": "1999–2007",
+    "rating": 9.2,
+    "votes": 556000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRmMTNiMTQtMDg1ZS00MGM1LWE1MGUtYjEzMGFjNWUzOWRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0141842/"
+  },
+  {
+    "id": "tt26471411",
+    "title": "When Life Gives You Tangerines",
+    "year": "2025",
+    "rating": 9.1,
+    "votes": 33000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTBhZTcwNWUtOTZjMi00ZjI2LWEzMzMtNWJkMWQ2ZDA0NTU3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt26471411/"
+  },
+  {
+    "id": "tt5622316",
+    "title": "The Chosen",
+    "year": "2017–",
+    "rating": 9.1,
+    "votes": 66000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDRiNmVjYmQtZDQ3Yy00MjA5LWFhYWYtYWMxYTE1NzEyZDNiXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt5622316/"
+  },
+  {
+    "id": "tt3032476",
+    "title": "Better Call Saul",
+    "year": "2015–2022",
+    "rating": 9,
+    "votes": 785000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt3032476/"
+  },
+  {
+    "id": "tt11126994",
+    "title": "Arcane",
+    "year": "2021–2024",
+    "rating": 9,
+    "votes": 425000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjA2NzhlMDItNWRmZC00MzRjLWE3ZjAtZjBlZDAwOWY2ODdjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt11126994/"
+  },
+  {
+    "id": "tt7923710",
+    "title": "My Mister",
+    "year": "2018",
+    "rating": 9,
+    "votes": 14000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmYxMzkxZDgtNjAxMC00OGFiLThiMjgtOTYyY2EyYWFhZTFkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt7923710/"
+  },
+  {
+    "id": "tt5182866",
+    "title": "Reply 1988",
+    "year": "2015–2016",
+    "rating": 9,
+    "votes": 18000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDBiNDE1NzUtYmU0OS00YmUxLTljODUtOTczNDE3ZGQ0MmYzXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt5182866/"
+  },
+  {
+    "id": "tt9432978",
+    "title": "Kota Factory",
+    "year": "2019–2021",
+    "rating": 9,
+    "votes": 91000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2U5MjY1NWEtZDI2MS00NTlhLWEyODQtYzE0MzY3NDUyNzE3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt9432978/"
+  },
+  {
+    "id": "tt10541088",
+    "title": "Clarkson's Farm",
+    "year": "2021–",
+    "rating": 9,
+    "votes": 82000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmIzMmQ1ZmMtYmNiNS00Nzc4LTljYmMtNjJjYTBjNTdiMGFjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt10541088/"
+  },
+  {
+    "id": "tt4834232",
+    "title": "Altered Carbon",
+    "year": "2018–2020",
+    "rating": 9,
+    "votes": 15000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTJkZjMwMjQtNThjNy00MmJmLTk3MGUtZGQzZDgwYzE5MTJmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt4834232/"
+  },
+  {
+    "id": "tt8595766",
+    "title": "Yeh Meri Family",
+    "year": "2018–",
+    "rating": 8.9,
+    "votes": 27000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGE2M2U0NTUtNDc2MC00MThmLWI2NzctMGY2MjlmZmRmMDFhXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt8595766/"
+  },
+  {
+    "id": "tt2356777",
+    "title": "True Detective",
+    "year": "2014–",
+    "rating": 8.9,
+    "votes": 733000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjgwYzA1NWMtNDYyZi00ZGQyLWI5NTktMDYwZjE2OTIwZWEwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt2356777/"
+  },
+  {
+    "id": "tt2297757",
+    "title": "Bloodline",
+    "year": "2015–2017",
+    "rating": 8.9,
+    "votes": 48671,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDU5OTA3YWUtYTIxYi00MWEwLTljZDEtYjhiYjEwYmJhMGVlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt2297757/"
+  },
+  {
+    "id": "tt7660850",
+    "title": "Succession",
+    "year": "2018–2023",
+    "rating": 8.8,
+    "votes": 339972,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTY4YTVkY2QtMjRmOS00YzliLWIxOWQtMTdkOTVkN2UzODNmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt7660850/"
+  },
+  {
+    "id": "tt10986410",
+    "title": "Ted Lasso",
+    "year": "2020–",
+    "rating": 8.8,
+    "votes": 426000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt10986410/"
+  },
+  {
+    "id": "tt3398228",
+    "title": "BoJack Horseman",
+    "year": "2014–2020",
+    "rating": 8.8,
+    "votes": 223765,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmMwMDlkNTEtMmQzZS00ODQ0LWJlZmItOTgwYWMwZGM4MzFiXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt3398228/"
+  },
+  {
+    "id": "tt2707408",
+    "title": "Narcos",
+    "year": "2015–2017",
+    "rating": 8.7,
+    "votes": 516352,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt2707408/"
+  },
+  {
+    "id": "tt9544034",
+    "title": "The Family Man",
+    "year": "2019–",
+    "rating": 8.7,
+    "votes": 110000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjM3YTczOWQtNjkzNi00ZTRlLThkZWEtZjgwZGVmODhkMDU3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt9544034/"
+  },
+  {
+    "id": "tt6741278",
+    "title": "Invincible",
+    "year": "2021–",
+    "rating": 8.7,
+    "votes": 295000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE4ZDU4ZjMtZjliYS00M2ZmLThkNTItN2U3MmJjOGU0NmIxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt6741278/"
+  },
+  {
+    "id": "tt5788792",
+    "title": "The Marvelous Mrs. Maisel",
+    "year": "2017–2023",
+    "rating": 8.7,
+    "votes": 155000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjM3MmFjMzYtMGNiYi00MDZmLTlkM2MtNzI3MDg1MzUwYWY2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt5788792/"
+  },
+  {
+    "id": "tt5712554",
+    "title": "The Grand Tour",
+    "year": "2016–2024",
+    "rating": 8.7,
+    "votes": 93000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1M2Y4ZjMtNWRiNS00YTUzLTkxMzEtZjgzYmZjMGVlMzY5XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt5712554/"
+  },
+  {
+    "id": "tt11280740",
+    "title": "Severance",
+    "year": "2022–",
+    "rating": 8.7,
+    "votes": 359000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt11280740/"
+  },
+  {
+    "id": "tt5687612",
+    "title": "Fleabag",
+    "year": "2016–2019",
+    "rating": 8.7,
+    "votes": 238000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MzU5NzQxNV5BMl5BanBnXkFtZTgwOTg3MDA5NzM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt5687612/"
+  },
+  {
+    "id": "tt5753856",
+    "title": "Dark",
+    "year": "2017–2020",
+    "rating": 8.7,
+    "votes": 517000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWJjMGViY2UtNTAzNS00ZGFjLWFkNTMtMDBiMDMyZTM1NTY3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt5753856/"
+  },
+  {
+    "id": "tt2085059",
+    "title": "Black Mirror",
+    "year": "2011–",
+    "rating": 8.7,
+    "votes": 720000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt2085059/"
+  },
+  {
+    "id": "tt10954356",
+    "title": "Heartstopper",
+    "year": "2022–",
+    "rating": 8.7,
+    "votes": 95000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE2YmQ3MzItMjczYi00MmI2LWIwNDUtYjI0YmUxZGExZTQyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt10954356/"
+  },
+  {
+    "id": "tt0384766",
+    "title": "Rome",
+    "year": "2005–2007",
+    "rating": 8.7,
+    "votes": 200000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQ0M2YxMGEtMDQ2MC00NGEwLTliMTQtODVkYWZkNDFkM2Y3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0384766/"
+  },
+  {
+    "id": "tt0118421",
+    "title": "Oz",
+    "year": "1997–2003",
+    "rating": 8.7,
+    "votes": 115000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk3ZGE4ZjAtNDk2ZS00ZGRmLTljNTYtNTU3Nzc5NWQ2Y2Y4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0118421/"
+  },
+  {
+    "id": "tt0248654",
+    "title": "Six Feet Under",
+    "year": "2001–2005",
+    "rating": 8.7,
+    "votes": 170000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDA5YTAxNGMtOWYxYy00ZDdkLWIwODUtNjdlYmNhMWQ5NzViXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0248654/"
+  },
+  {
+    "id": "tt0387764",
+    "title": "Entourage",
+    "year": "2004–2011",
+    "rating": 8.7,
+    "votes": 73000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ0MGMwNjMtNmEyMC00OTA2LTg4YTEtNjBhNjNkYTgzMmZlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0387764/"
+  },
+  {
+    "id": "tt4574334",
+    "title": "Stranger Things",
+    "year": "2016–2025",
+    "rating": 8.6,
+    "votes": 1537477,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt4574334/"
+  },
+  {
+    "id": "tt0348914",
+    "title": "Deadwood",
+    "year": "2004–2006",
+    "rating": 8.6,
+    "votes": 126590,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODFiMjBkNDMtN2I1NS00YWM3LTliNWEtMTg0NjVlN2I5YTNlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0348914/"
+  },
+  {
+    "id": "tt1190634",
+    "title": "The Boys",
+    "year": "2019–2026",
+    "rating": 8.6,
+    "votes": 819000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGRlZDE2ZGEtZTU5Mi00ODdkLWFmMTEtY2UwMmViNWNmZjczXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt1190634/"
+  },
+  {
+    "id": "tt4786824",
+    "title": "The Crown",
+    "year": "2016–2023",
+    "rating": 8.6,
+    "votes": 280000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODcyODZlZDMtZGE0Ni00NjBhLWJlYTAtZDdlNWY3MzkwMGVhXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt4786824/"
+  },
+  {
+    "id": "tt1856010",
+    "title": "House of Cards",
+    "year": "2013–2018",
+    "rating": 8.6,
+    "votes": 554120,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDczNDYwNV5BMl5BanBnXkFtZTcwNjMwMDk5OA@@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt1856010/"
+  },
+  {
+    "id": "tt5290382",
+    "title": "Mindhunter",
+    "year": "2017–2019",
+    "rating": 8.6,
+    "votes": 386000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTk4NDA4MGMtNjliOC00MjExLWI1YzctOTc4NWIxM2I1YjM5XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt5290382/"
+  },
+  {
+    "id": "tt1870479",
+    "title": "The Newsroom",
+    "year": "2012–2014",
+    "rating": 8.6,
+    "votes": 133121,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzk4ZjllMjktY2MyMy00N2M3LWFhYjYtM2FkY2YxMzkyNzgyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt1870479/"
+  },
+  {
+    "id": "tt1205016",
+    "title": "Night Sky",
+    "year": "2022",
+    "rating": 8.6,
+    "votes": 52,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzAyNGJhMDgtY2JhMy00M2NlLTk0MGMtMjRkYjUzZWYzZjRmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt1205016/"
+  },
+  {
+    "id": "tt0979432",
+    "title": "Boardwalk Empire",
+    "year": "2010–2014",
+    "rating": 8.6,
+    "votes": 215304,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2MzODhjYTEtZTA2ZS00ZTRjLTlkZDYtNTBkNTdhNWJlMTYwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0979432/"
+  },
+  {
+    "id": "tt3581920",
+    "title": "The Last of Us",
+    "year": "2023–",
+    "rating": 8.5,
+    "votes": 710875,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt3581920/"
+  },
+  {
+    "id": "tt3502248",
+    "title": "Bosch",
+    "year": "2014–2021",
+    "rating": 8.5,
+    "votes": 96000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlNDQ5MzQtMzAxYy00MmYwLTgzYmItMzNhMzNiNzdhYzI2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt3502248/"
+  },
+  {
+    "id": "tt1353056",
+    "title": "RuPaul's Drag Race",
+    "year": "2009–",
+    "rating": 8.5,
+    "votes": 25000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzhjNDBkMDktM2IzNC00YTdhLTlkNzYtMGE5ZjNkMjYzYWIyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt1353056/"
+  },
+  {
+    "id": "tt3230854",
+    "title": "The Expanse",
+    "year": "2015–2022",
+    "rating": 8.5,
+    "votes": 188000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzUyYmI3MjctY2Q2MC00NmFjLTgwZGUtNWQzZWNlYmVjNzE2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt3230854/"
+  },
+  {
+    "id": "tt10048342",
+    "title": "The Queen's Gambit",
+    "year": "2020",
+    "rating": 8.5,
+    "votes": 643000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt10048342/"
+  },
+  {
+    "id": "tt2575988",
+    "title": "Silicon Valley",
+    "year": "2014–2019",
+    "rating": 8.5,
+    "votes": 179000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjhhYmZjZjgtOTc3Mi00ZmY3LWI3MTUtYzcyOGMxYWFmN2YyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt2575988/"
+  },
+  {
+    "id": "tt14452776",
+    "title": "The Penguin",
+    "year": "2024–",
+    "rating": 8.5,
+    "votes": 298000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZhNDZiMzAtZmZlYS00MWFmLWE2MWEtNDAxZTZiN2U4Y2U2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt14452776/"
+  },
+  {
+    "id": "tt6763664",
+    "title": "The Underground Railroad",
+    "year": "2021",
+    "rating": 8.5,
+    "votes": 321000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt6763664/"
+  },
+  {
+    "id": "tt12005128",
+    "title": "WeCrashed",
+    "year": "2022",
+    "rating": 8.5,
+    "votes": 25000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTFlOWE5NjQtY2IyYy00YjAwLWEwMmEtMWVlMzNjMjM1NmUyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt12005128/"
+  },
+  {
+    "id": "tt0103466",
+    "title": "The Larry Sanders Show",
+    "year": "1992–1998",
+    "rating": 8.5,
+    "votes": 9997,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWY3ZjBiY2UtZjNjYS00ZDkwLWJmYTItYmIzOTkzMmIwY2U4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0103466/"
+  },
+  {
+    "id": "tt5071412",
+    "title": "Ozark",
+    "year": "2017–2022",
+    "rating": 8.4,
+    "votes": 382983,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk1ZTdjOWItNTJmYS00MGIzLThmY2ItZWNiOGY5MzJlNTA5XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt5071412/"
+  },
+  {
+    "id": "tt0475784",
+    "title": "Westworld",
+    "year": "2016–2022",
+    "rating": 8.4,
+    "votes": 553819,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MTA5NjIwNV5BMl5BanBnXkFtZTgwNjI2OTMxNTM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0475784/"
+  },
+  {
+    "id": "tt3920596",
+    "title": "Big Little Lies",
+    "year": "2017–2019",
+    "rating": 8.4,
+    "votes": 241100,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2E3ODNhNWYtYWQ0ZS00ZjdlLTg5NjItMzYwMTlkN2I3YTFjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt3920596/"
+  },
+  {
+    "id": "tt0472027",
+    "title": "John Adams",
+    "year": "2008",
+    "rating": 8.4,
+    "votes": 39352,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNDc0MDE2MF5BMl5BanBnXkFtZTcwODYwNjE2MQ@@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0472027/"
+  },
+  {
+    "id": "tt11247158",
+    "title": "The Legend of Vox Machina",
+    "year": "2022–",
+    "rating": 8.4,
+    "votes": 52000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0ZjE2NDgtM2IxMy00NTk3LWFhMTEtMWNhOWJiYjIzYzY2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt11247158/"
+  },
+  {
+    "id": "tt14168162",
+    "title": "Bosch: Legacy",
+    "year": "2022–2025",
+    "rating": 8.4,
+    "votes": 38000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzRhZDU0NzgtMzhjMy00NGZjLWI0OGYtZGZjODRkZWVmYzAwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt14168162/"
+  },
+  {
+    "id": "tt6473300",
+    "title": "Mirzapur",
+    "year": "2018–",
+    "rating": 8.4,
+    "votes": 92000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjMzMxZTUtYTMyNy00OWNhLTk4ODQtNGI1NjI1NjJhMzc3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt6473300/"
+  },
+  {
+    "id": "tt10324164",
+    "title": "Prehistoric Planet",
+    "year": "2022–2025",
+    "rating": 8.4,
+    "votes": 12000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDhjOTNmZjQtNzZhZi00MGE1LThlMmYtYjQ4NDk0M2YwNDIxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt10324164/"
+  },
+  {
+    "id": "tt8888462",
+    "title": "Pachinko",
+    "year": "2022–2024",
+    "rating": 8.4,
+    "votes": 17000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2QwMTgyZTAtOTM4MS00OGRhLWIzNjQtZmQ3Yzc5NmNiYzhlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt8888462/"
+  },
+  {
+    "id": "tt0319969",
+    "title": "Carnivale",
+    "year": "2003–2005",
+    "rating": 8.4,
+    "votes": 50000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNkYTAwMjQtNjZlNC00MGZiLWE1YTYtNmNjMjE5ODAzY2U2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0319969/"
+  },
+  {
+    "id": "tt8398600",
+    "title": "Industry",
+    "year": "2020–",
+    "rating": 8.4,
+    "votes": 165000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDVkNzU5ZjAtNjE5MC00YjBmLTk0NjAtYmFiOTk3MGIwZDlmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt8398600/"
+  },
+  {
+    "id": "tt11198330",
+    "title": "House of the Dragon",
+    "year": "2022–",
+    "rating": 8.3,
+    "votes": 497147,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt11198330/"
+  },
+  {
+    "id": "tt12637874",
+    "title": "Fallout",
+    "year": "2024–",
+    "rating": 8.3,
+    "votes": 350000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzE1MTZmY2ItMTgxNi00OGU5LTk4NTItMmY2ODFhYzhjZjRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt12637874/"
+  },
+  {
+    "id": "tt22202452",
+    "title": "Pluribus",
+    "year": "2025–",
+    "rating": 8.3,
+    "votes": 48000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt22202452/"
+  },
+  {
+    "id": "tt5875444",
+    "title": "Slow Horses",
+    "year": "2022–",
+    "rating": 8.3,
+    "votes": 135000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NkNTBiYWUtMGFiZS00MGI4LWE3YjMtZTU3NzhhZmEyYzlkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt5875444/"
+  },
+  {
+    "id": "tt10915976",
+    "title": "As We See It",
+    "year": "2022",
+    "rating": 8.3,
+    "votes": 6500,
+    "poster": "https://m.media-amazon.com/images/G/01/IMDb/Mobile/DesktopQRCode-png.png",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt10915976/"
+  },
+  {
+    "id": "tt5765126",
+    "title": "Atypical",
+    "year": "2017–2021",
+    "rating": 8.3,
+    "votes": 80000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGY4OTNhZmItODQ3NC00NTBmLWE2ZjktNGQ3M2NhOGMzYWMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt5765126/"
+  },
+  {
+    "id": "tt2699128",
+    "title": "The Leftovers",
+    "year": "2014–2017",
+    "rating": 8.3,
+    "votes": 127000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE3MDc1MjY4NV5BMl5BanBnXkFtZTgwMDg4MjQ4MTE@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt2699128/"
+  },
+  {
+    "id": "tt1836037",
+    "title": "Grace and Frankie",
+    "year": "2015–2022",
+    "rating": 8.3,
+    "votes": 43073,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxMzIwNzI3M15BMl5BanBnXkFtZTgwODgxMTU5OTE@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt1836037/"
+  },
+  {
+    "id": "tt11815682",
+    "title": "Hacks",
+    "year": "2021–",
+    "rating": 8.2,
+    "votes": 59534,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI5NTE0ODMtOTdlYS00MjY1LWE0ZWUtZTg2M2FmZmUwZGMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt11815682/"
+  },
+  {
+    "id": "tt8772296",
+    "title": "Euphoria",
+    "year": "2019–",
+    "rating": 8.2,
+    "votes": 284000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjVlN2M2N2MtOWViZC00MzIxLTlhZWEtMTIwNDIwMzE3ZWJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt8772296/"
+  },
+  {
+    "id": "tt9680440",
+    "title": "Paatal Lok",
+    "year": "2020–",
+    "rating": 8.2,
+    "votes": 74000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2NlZDUwNzAtZTgyYi00YjhlLThhZTEtYTIxMzdjZjVkOTI3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt9680440/"
+  },
+  {
+    "id": "tt4687882",
+    "title": "Patriot",
+    "year": "2015–2018",
+    "rating": 8.2,
+    "votes": 21000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWIzM2U5YmEtYTRhMi00MGI4LWFkNjgtNGY3YjFjMjUxMjI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt4687882/"
+  },
+  {
+    "id": "tt8101850",
+    "title": "Undone",
+    "year": "2019–2022",
+    "rating": 8.2,
+    "votes": 26000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU0OGE0Y2EtODA2Ny00MmEyLThiY2QtNWQzNTZhODg1NmIxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt8101850/"
+  },
+  {
+    "id": "tt4374208",
+    "title": "Catastrophe",
+    "year": "2015–2019",
+    "rating": 8.2,
+    "votes": 25000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzMwNTI2MzIzM15BMl5BanBnXkFtZTgwODUxMjE0NzM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt4374208/"
+  },
+  {
+    "id": "tt6466208",
+    "title": "Breathe",
+    "year": "2018",
+    "rating": 8.2,
+    "votes": 23000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNjIzNjk5N15BMl5BanBnXkFtZTgwNTAyMDk1NDM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt6466208/"
+  },
+  {
+    "id": "tt14544190",
+    "title": "Sprung",
+    "year": "2022",
+    "rating": 8.2,
+    "votes": 7100,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYzZjUxN2UtOWEyMi00ZDQ4LWJmNGMtN2JjOWJkM2Q5NDM1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt14544190/"
+  },
+  {
+    "id": "tt11302324",
+    "title": "James May: Our Man in...",
+    "year": "2020–2024",
+    "rating": 8.2,
+    "votes": 9600,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWIwNTQ3ZTctZWIzNS00NjEyLTg0NDEtMjc0Yzk5NzRmNTAzXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt11302324/"
+  },
+  {
+    "id": "tt15469618",
+    "title": "Bad Sisters",
+    "year": "2022–",
+    "rating": 8.2,
+    "votes": 53000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzczZTIxNWMtNDA3Zi00MjZiLTk5ZjEtYTI0NTA3M2ZlNTI5XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt15469618/"
+  },
+  {
+    "id": "tt12824922",
+    "title": "Long Way Up",
+    "year": "2020",
+    "rating": 8.2,
+    "votes": 6000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJiMzA2ZmYtNGUyNC00YTYwLWFlZTUtYmZiM2JlZTE0Nzg3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt12824922/"
+  },
+  {
+    "id": "tt6468322",
+    "title": "Money Heist",
+    "year": "2017–2021",
+    "rating": 8.2,
+    "votes": 590237,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt6468322/"
+  },
+  {
+    "id": "tt7767422",
+    "title": "Sex Education",
+    "year": "2019–2023",
+    "rating": 8.2,
+    "votes": 389000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt7767422/"
+  },
+  {
+    "id": "tt2431438",
+    "title": "Sense8",
+    "year": "2015–2018",
+    "rating": 8.2,
+    "votes": 170000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt2431438/"
+  },
+  {
+    "id": "tt4635276",
+    "title": "Master of None",
+    "year": "2015–2021",
+    "rating": 8.2,
+    "votes": 80000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI1MDgyMTMwMF5BMl5BanBnXkFtZTgwMDU5MzAxNzE@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt4635276/"
+  },
+  {
+    "id": "tt14360662",
+    "title": "Lessons in Chemistry",
+    "year": "2023",
+    "rating": 8.2,
+    "votes": 45000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjk1NzgzMjItYWZmMC00OGViLTgyNWQtNWJjNTE1M2FjOTBlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt14360662/"
+  },
+  {
+    "id": "tt7049682",
+    "title": "Watchmen",
+    "year": "2019",
+    "rating": 8.2,
+    "votes": 144000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGJkMmY5MTQtODg0MC00NTgxLTgwMTctODMxNGM0NDhhM2UxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt7049682/"
+  },
+  {
+    "id": "tt4687880",
+    "title": "Goliath",
+    "year": "2016–2021",
+    "rating": 8.1,
+    "votes": 62000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2YwNjY2NzEtYTE4ZC00MTZkLTlkM2ItZmJiZDAxNzE1OTQxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt4687880/"
+  },
+  {
+    "id": "tt8749198",
+    "title": "Daisy Jones & The Six",
+    "year": "2023",
+    "rating": 8.1,
+    "votes": 44000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTMwNzIzZDItYzYzYS00ZDA4LThiNmYtYTJjYjMwZTUxNTk1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt8749198/"
+  },
+  {
+    "id": "tt3502172",
+    "title": "Mozart in the Jungle",
+    "year": "2014–2018",
+    "rating": 8.1,
+    "votes": 27000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNTYyOTkyOV5BMl5BanBnXkFtZTgwNzk5NzYzNDM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt3502172/"
+  },
+  {
+    "id": "tt4687892",
+    "title": "Good Girls Revolt",
+    "year": "2015–2016",
+    "rating": 8.1,
+    "votes": 6600,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTQ0MzI4NF5BMl5BanBnXkFtZTgwNjExMjY2OTE@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt4687892/"
+  },
+  {
+    "id": "tt7203552",
+    "title": "The Morning Show",
+    "year": "2019–",
+    "rating": 8.1,
+    "votes": 147000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTY1YjM0Y2QtODFkMy00ZDc4LTg3MWMtMDE4MGY5NzFjYTRhXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt7203552/"
+  },
+  {
+    "id": "tt14688458",
+    "title": "Silo",
+    "year": "2023–",
+    "rating": 8.1,
+    "votes": 202000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjA5ODM4YTEtNDcxZi00N2ViLTg0MTgtNGQxNjBjZWY5YTk3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt14688458/"
+  },
+  {
+    "id": "tt23649128",
+    "title": "The Studio",
+    "year": "2025–",
+    "rating": 8.1,
+    "votes": 51000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA4MWUyNDYtODNjYi00NjE4LTk0ZTMtZmMzZTU5MzkzMTBlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt23649128/"
+  },
+  {
+    "id": "tt15677150",
+    "title": "Shrinking",
+    "year": "2023–",
+    "rating": 8.1,
+    "votes": 109000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU3Yjg0Y2UtN2E5Yy00NzYyLThlNzQtOTI2YWE2OWJhYTUyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt15677150/"
+  },
+  {
+    "id": "tt7772588",
+    "title": "For All Mankind",
+    "year": "2019–",
+    "rating": 8.1,
+    "votes": 83000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmI5OTNmYWQtNjRhNy00MWYxLWJjMzAtMmRlNDU1ZjBhMzhlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt7772588/"
+  },
+  {
+    "id": "tt15441622",
+    "title": "Black Bird",
+    "year": "2022",
+    "rating": 8.1,
+    "votes": 55000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdiNDNhM2MtZWM0ZC00YjQ1LThjZTMtNGE3YmE2ZDA2OWJlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt15441622/"
+  },
+  {
+    "id": "tt4406178",
+    "title": "The Gilded Age",
+    "year": "2022–",
+    "rating": 8.1,
+    "votes": 51036,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc3N2E1OWEtZTQ0NS00ZDFkLWFhOGUtYWU2MjJjYzdhMjQ2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt4406178/"
+  },
+  {
+    "id": "tt2887954",
+    "title": "Tokyo Vice",
+    "year": "2022–",
+    "rating": 8.1,
+    "votes": 54614,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjkxMjU2ODUtNzdlZi00NDg0LWEyZDgtZGE3NTVkNDYyZjIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt2887954/"
+  },
+  {
+    "id": "tt13443470",
+    "title": "Wednesday",
+    "year": "2022–",
+    "rating": 8,
+    "votes": 478148,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDE1NjNmZjgtZTg0OC00NjkxLWEzYzItMDNkMTc3YjgxZWQyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt13443470/"
+  },
+  {
+    "id": "tt7587890",
+    "title": "The Righteous Gemstones",
+    "year": "2019–",
+    "rating": 8,
+    "votes": 115319,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt7587890/"
+  },
+  {
+    "id": "tt9288030",
+    "title": "Reacher",
+    "year": "2022–",
+    "rating": 8,
+    "votes": 280000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt9288030/"
+  },
+  {
+    "id": "tt5057054",
+    "title": "Tom Clancy's Jack Ryan",
+    "year": "2018–2023",
+    "rating": 8,
+    "votes": 189000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYxNzgzNTQtY2U0OC00NzU2LTgxZmYtNmZkMmVlMjgyMzM3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt5057054/"
+  },
+  {
+    "id": "tt1869454",
+    "title": "Good Omens",
+    "year": "2019–2025",
+    "rating": 8,
+    "votes": 122000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDRmNGY5MTUtNDQxMC00MjMyLWIzODQtNzU2ZTdhMjJhOTA5XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt1869454/"
+  },
+  {
+    "id": "tt6867482",
+    "title": "Drops of God",
+    "year": "2023–",
+    "rating": 8,
+    "votes": 16000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FlOTYzOWEtNTQ0MC00YjY0LWFkNzUtZWZlMjAzYjk5ZjNjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt6867482/"
+  },
+  {
+    "id": "tt10982034",
+    "title": "Trying",
+    "year": "2020–",
+    "rating": 8,
+    "votes": 15000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzdhZTBlZTgtOGRlNC00ZGVmLWI0NjYtNzljMWE0YzM3Nzg2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt10982034/"
+  },
+  {
+    "id": "tt5011816",
+    "title": "Sneaky Pete",
+    "year": "2015–2019",
+    "rating": 8,
+    "votes": 47000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2OTExNDE3MF5BMl5BanBnXkFtZTgwMzk2MjU5NzM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt5011816/"
+  },
+  {
+    "id": "tt10919420",
+    "title": "Squid Game",
+    "year": "2021–",
+    "rating": 8,
+    "votes": 731000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt10919420/"
+  },
+  {
+    "id": "tt2372162",
+    "title": "Orange Is the New Black",
+    "year": "2013–2019",
+    "rating": 8,
+    "votes": 333000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRjMTAyYjUtZDk0Mi00OGQ5LWJjNzMtMzBhNDMwMmI5NzVjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt2372162/"
+  },
+  {
+    "id": "tt5469280",
+    "title": "Dead to Me",
+    "year": "2019–2022",
+    "rating": 8,
+    "votes": 95000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDlhZGRiMWQtZDRhYi00NjY2LWJiYzQtYjE2OWJlZGYwMmFlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt5469280/"
+  },
+  {
+    "id": "tt8518518",
+    "title": "Little America",
+    "year": "2020–",
+    "rating": 8,
+    "votes": 5500,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVkOWE3ZjMtN2RiYy00ZGRjLWE5YWQtNjU4N2VjNzVmZmNkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt8518518/"
+  },
+  {
+    "id": "tt13406094",
+    "title": "White Lotus",
+    "year": "2021–",
+    "rating": 8,
+    "votes": 306000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmM1MGM0MDQtZTAzNy00ZGJkLWI4MDUtNjBmMzdhYjhlM2QwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt13406094/"
+  },
+  {
+    "id": "tt5180504",
+    "title": "The Witcher",
+    "year": "2019–",
+    "rating": 7.9,
+    "votes": 612845,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQzMzNmMzUtODgwNS00YTdhLTg5N2MtOWU1YTc4YWY3NjRlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt5180504/"
+  },
+  {
+    "id": "tt2189461",
+    "title": "Marco Polo",
+    "year": "2014–2016",
+    "rating": 7.9,
+    "votes": 83302,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwMDU5NzMzOV5BMl5BanBnXkFtZTgwNzk5NTE0MzE@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt2189461/"
+  },
+  {
+    "id": "tt3138846",
+    "title": "Red Oaks",
+    "year": "2014–2017",
+    "rating": 7.9,
+    "votes": 12000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTBmMzBmNGMtYmRhOS00NTZmLTk1YWUtMWJjMTEzMGE0MDY2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt3138846/"
+  },
+  {
+    "id": "tt9262936",
+    "title": "Never Have I Ever",
+    "year": "2020–2023",
+    "rating": 7.9,
+    "votes": 85000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2U3ZWQ3YTUtYzRjYi00NDc2LWE0MzgtZWFkMDY0NmZiMmIwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt9262936/"
+  },
+  {
+    "id": "tt0844441",
+    "title": "True Blood",
+    "year": "2008–2014",
+    "rating": 7.9,
+    "votes": 269000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGViZTA1ODktNmMyYy00YjBmLWFkMjgtMTYxNjgzMjEyODlkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0844441/"
+  },
+  {
+    "id": "tt7826376",
+    "title": "Upload",
+    "year": "2020–",
+    "rating": 7.8,
+    "votes": 88737,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzYzOTY3MzctOTQ1ZC00NjRlLTljMzMtNDI0OWE1N2I4YTdhXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt7826376/"
+  },
+  {
+    "id": "tt1312171",
+    "title": "The Umbrella Academy",
+    "year": "2019–2024",
+    "rating": 7.8,
+    "votes": 309959,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzlmMmIxODItYzBjNC00YjMwLWIwOTAtNzVlMTBlNTNkMjZjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt1312171/"
+  },
+  {
+    "id": "tt6524350",
+    "title": "Big Mouth",
+    "year": "2017–",
+    "rating": 7.8,
+    "votes": 96826,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0YjUyNDctYmM0OC00OWU5LWJmNTMtODY5Njc4MzVlMWE2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt6524350/"
+  },
+  {
+    "id": "tt10795658",
+    "title": "Alice in Borderland",
+    "year": "2020–",
+    "rating": 7.8,
+    "votes": 139190,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmMzODA4M2MtMjBmNC00YjFhLTg4NzgtODgyNzE4NWQxMThmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt10795658/"
+  },
+  {
+    "id": "tt13567344",
+    "title": "Acapulco",
+    "year": "2021–2025",
+    "rating": 7.8,
+    "votes": 9700,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDM3ZmYwODItZTllNi00MDllLTkzZWQtYzAxNjBjYmViM2RkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt13567344/"
+  },
+  {
+    "id": "tt13820498",
+    "title": "The Last Days of Ptolemy Grey",
+    "year": "2022",
+    "rating": 7.8,
+    "votes": 7400,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmRlOThmMTctNDZlMC00ZmM4LWE5ODUtNWU0NTZjNzFhYWU4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt13820498/"
+  },
+  {
+    "id": "tt3502262",
+    "title": "Transparent",
+    "year": "2014–2019",
+    "rating": 7.8,
+    "votes": 25000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDYwYmUyYjAtOTc3Yi00MWYwLThjYWUtZTFkMGJmMDY3YTVkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt3502262/"
+  },
+  {
+    "id": "tt4635282",
+    "title": "The OA",
+    "year": "2016–2019",
+    "rating": 7.8,
+    "votes": 125000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTkwNDkzOF5BMl5BanBnXkFtZTgwMDEyNzI1NzM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt4635282/"
+  },
+  {
+    "id": "tt8993814",
+    "title": "Home Before Dark",
+    "year": "2020–2021",
+    "rating": 7.8,
+    "votes": 9000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmExYjhjZDAtMDY5OC00MGQzLThiYWQtOTdkZjJmMGZhN2U4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt8993814/"
+  },
+  {
+    "id": "tt10370710",
+    "title": "Peacemaker",
+    "year": "2022–",
+    "rating": 7.7,
+    "votes": 119000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGEyYzBiYmItZDM4OC00NTdmLWJlYzctODdiM2E2MjZmYTU2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt10370710/"
+  },
+  {
+    "id": "tt30459041",
+    "title": "Your Friends & Neighbors",
+    "year": "2025–",
+    "rating": 7.7,
+    "votes": 40000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmJkNGYzOGQtMDk5My00MTgzLThiMzMtZGVkZTZmNmYxNzU1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt30459041/"
+  },
+  {
+    "id": "tt17677860",
+    "title": "Presumed Innocent",
+    "year": "2024–",
+    "rating": 7.7,
+    "votes": 91000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDk1MWM3NmItZmNjZS00ZmZkLTk1ZDAtZjFiN2FiZjczNmZhXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt17677860/"
+  },
+  {
+    "id": "tt8518136",
+    "title": "Dickinson",
+    "year": "2019–2021",
+    "rating": 7.7,
+    "votes": 22000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI1MDU0ODUtYzk2Yy00ODY3LWJjYjQtZTg4Yzk5NTliOTUxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt8518136/"
+  },
+  {
+    "id": "tt8879940",
+    "title": "Mythic Quest",
+    "year": "2020–2025",
+    "rating": 7.7,
+    "votes": 37000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQ3NDRmZjQtOWViNi00MDJkLWJmODEtZjIwM2UxMjI0MmYyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt8879940/"
+  },
+  {
+    "id": "tt9327706",
+    "title": "Calls",
+    "year": "2021",
+    "rating": 7.7,
+    "votes": 8200,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZiMmQxNTctYjQ2Ni00NTYxLTgxNjktZjY2NzBlMGFlOGNjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt9327706/"
+  },
+  {
+    "id": "tt7850808",
+    "title": "A Very English Scandal",
+    "year": "2018",
+    "rating": 7.7,
+    "votes": 20000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjgzNGJkYjEtNGZiYi00MGIyLWFjNzYtZTFlZjdhYWNlMjJlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt7850808/"
+  },
+  {
+    "id": "tt13825824",
+    "title": "Five Days at Memorial",
+    "year": "2022",
+    "rating": 7.7,
+    "votes": 12000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQzMDEzM2QtMTU3ZS00ZGNjLTgzYjQtZDQzMjJiZWQ1YWFlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt13825824/"
+  },
+  {
+    "id": "tt0489974",
+    "title": "Carnival Row",
+    "year": "2019–2023",
+    "rating": 7.7,
+    "votes": 87498,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzgzYmQ0OTYtMjMwMS00ZGI2LWE5MjMtMWViZjkwMGY4NGZmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt0489974/"
+  },
+  {
+    "id": "tt7335184",
+    "title": "You",
+    "year": "2018–",
+    "rating": 7.6,
+    "votes": 355768,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVlYmRhMWQtNmE0Yi00ODM1LWEzMWEtNTQzZGZhODRmZTE0XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt7335184/"
+  },
+  {
+    "id": "tt4061080",
+    "title": "Love",
+    "year": "2016–2018",
+    "rating": 7.6,
+    "votes": 48065,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWNjMzk1MmMtMTllMi00NTNjLTg2YzQtYmFmN2RmZDAyOGUxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt4061080/"
+  },
+  {
+    "id": "tt2077823",
+    "title": "Perry Mason",
+    "year": "2020–2023",
+    "rating": 7.6,
+    "votes": 31000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDgyYzFlMWItM2MwOC00MGExLWIwZTQtY2NlMTJkMDllYWY5XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt2077823/"
+  },
+  {
+    "id": "tt10574236",
+    "title": "Station Eleven",
+    "year": "2021–2022",
+    "rating": 7.6,
+    "votes": 41000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWJhMTg4NTItYzNhYy00ZDViLTk0NTAtOGMyZTE4YWUxZmM3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt10574236/"
+  },
+  {
+    "id": "tt0804484",
+    "title": "Foundation",
+    "year": "2021–",
+    "rating": 7.6,
+    "votes": 122000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY5OGJhYzItNGQyOS00NmU3LWFhOWMtNGY1OGVlNTlmYjc0XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt0804484/"
+  },
+  {
+    "id": "tt10577736",
+    "title": "Tehran",
+    "year": "2020–",
+    "rating": 7.6,
+    "votes": 28000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDA5ZTVjM2EtM2EwMy00NzJiLWI5MjktYWUwYzAwYjE5N2FkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt10577736/"
+  },
+  {
+    "id": "tt13159924",
+    "title": "Gen V",
+    "year": "2023–",
+    "rating": 7.6,
+    "votes": 140000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWU4YTljYmItYjczNS00MWY0LWI3NjctZjJhYjU3NWNmNWZhXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt13159924/"
+  },
+  {
+    "id": "tt10275532",
+    "title": "Shadow and Bone",
+    "year": "2021–2023",
+    "rating": 7.6,
+    "votes": 120000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNiYTY5NDUtZjE4OC00MWM2LWE2NDMtODFhOGE5N2UyYzk4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt10275532/"
+  },
+  {
+    "id": "tt7949218",
+    "title": "See",
+    "year": "2019–2022",
+    "rating": 7.6,
+    "votes": 109000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDEwYTg3MWQtZTNmMi00ZjU1LTkwNWQtZDFmODQ5NjcwMDc2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt7949218/"
+  },
+  {
+    "id": "tt15342520",
+    "title": "Hijack",
+    "year": "2023–",
+    "rating": 7.6,
+    "votes": 45000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2MxZmYzMDItYzNkMS00YWY1LWIzNDktNTI3YTQxMGNjZjEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt15342520/"
+  },
+  {
+    "id": "tt6932244",
+    "title": "Hanna",
+    "year": "2019–2021",
+    "rating": 7.6,
+    "votes": 44996,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzMyNWFjNjYtYzYwNi00ZWY5LWFjNjQtZDdhYWQyMTFmZjUzXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt6932244/"
+  },
+  {
+    "id": "tt14169960",
+    "title": "All of Us Are Dead",
+    "year": "2022–",
+    "rating": 7.6,
+    "votes": 85808,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDY4ZmZhNzMtNjdkMC00NTE3LWFjYzQtOGE4OTllOGY1NTk5XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt14169960/"
+  },
+  {
+    "id": "tt3339966",
+    "title": "Unbreakable Kimmy Schmidt",
+    "year": "2015–2020",
+    "rating": 7.5,
+    "votes": 82620,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNTQyNjUwN15BMl5BanBnXkFtZTgwNjMwNjUzNzM@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt3339966/"
+  },
+  {
+    "id": "tt13270534",
+    "title": "The Devil's Hour",
+    "year": "2022–",
+    "rating": 7.5,
+    "votes": 24000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2E3MDdkMWItZWRkMy00YzU2LTg2MzAtMTg4NGVhYjNlNzMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt13270534/"
+  },
+  {
+    "id": "tt2531336",
+    "title": "Lupin",
+    "year": "2021–",
+    "rating": 7.5,
+    "votes": 154258,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDJhODQ3ZDEtN2JmMS00Yjk5LTk1ZTUtMzI3YTU0NTNjMjAyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt2531336/"
+  },
+  {
+    "id": "tt8053724",
+    "title": "Outer Banks",
+    "year": "2020–",
+    "rating": 7.5,
+    "votes": 120000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWNmMjBlN2EtNWVlNC00YzJkLWExN2ItNmJmODA5ZTgzYTBiXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt8053724/"
+  },
+  {
+    "id": "tt8068860",
+    "title": "Servant",
+    "year": "2019–2023",
+    "rating": 7.4,
+    "votes": 52015,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmVhZGI1MWItOTAzNS00NDBmLTk3MzAtMjVmYWE2ODA2M2I0XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt8068860/"
+  },
+  {
+    "id": "tt7008682",
+    "title": "Homecoming",
+    "year": "2018–2020",
+    "rating": 7.4,
+    "votes": 29000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NzEwMzgtNjEyNy00ZWI1LTllZTgtOTA4MjgwYTI4MzI5XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt7008682/"
+  },
+  {
+    "id": "tt8741290",
+    "title": "Tales from the Loop",
+    "year": "2020",
+    "rating": 7.4,
+    "votes": 25881,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTlhNzI5YjAtMDllZC00MmJjLTk4MGYtYjdiNWEyOTc3Mjc1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt8741290/"
+  },
+  {
+    "id": "tt11419820",
+    "title": "Ginny & Georgia",
+    "year": "2021–",
+    "rating": 7.4,
+    "votes": 65000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI2NzQ2MmQtY2M1Ni00ZWM4LWJmNGEtNTg0MDk4ZjA1ZWFmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt11419820/"
+  },
+  {
+    "id": "tt6741602",
+    "title": "Locke & Key",
+    "year": "2020–2022",
+    "rating": 7.4,
+    "votes": 95000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGFiYjczMDItMjkwNi00OTYxLTkwNDYtOGE4ZjJkMDkyOWEwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt6741602/"
+  },
+  {
+    "id": "tt21059588",
+    "title": "Platonic",
+    "year": "2023–",
+    "rating": 7.4,
+    "votes": 18000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzJjNGEzMGMtOGEyZi00MjNkLWIyMjgtMDc0MmMwZGYzZGM0XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt21059588/"
+  },
+  {
+    "id": "tt9224754",
+    "title": "Central Park",
+    "year": "2020–2023",
+    "rating": 7.4,
+    "votes": 6500,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMThkOGFmMGEtNzBmNy00Y2IzLWI5MmItZDBmNjg0MDI2MDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt9224754/"
+  },
+  {
+    "id": "tt10405578",
+    "title": "Swagger",
+    "year": "2021–2023",
+    "rating": 7.4,
+    "votes": 6000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDMyMjMwMDktNTczYS00MTc3LWJlZGUtM2Y1Y2QwY2JiNWM2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt10405578/"
+  },
+  {
+    "id": "tt8423104",
+    "title": "The Plot Against America",
+    "year": "2020",
+    "rating": 7.4,
+    "votes": 25000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFjMGM0MWItYjNhOS00Yjc1LWE3ZDYtMzJlYmQ4YWNhNzg4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt8423104/"
+  },
+  {
+    "id": "tt0159206",
+    "title": "Sex and the City",
+    "year": "1998–2004",
+    "rating": 7.4,
+    "votes": 157409,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjMwNzczODYtZDQwZC00NjJmLTg5ZWYtYzUxZjViYmNhN2IyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt0159206/"
+  },
+  {
+    "id": "tt8740790",
+    "title": "Bridgerton",
+    "year": "2020–",
+    "rating": 7.4,
+    "votes": 211614,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzc4NmIwNGMtNGIzNy00Nzg2LWFlNzItYzhmNjQ1NGUwNTg1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt8740790/"
+  },
+  {
+    "id": "tt11311302",
+    "title": "Vikings: Valhalla",
+    "year": "2022–2024",
+    "rating": 7.4,
+    "votes": 69457,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFjYmMxMjMtMGE2ZC00YWZhLTgzNDYtYTA3ODA2MDg2NTA4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt11311302/"
+  },
+  {
+    "id": "tt12614214",
+    "title": "The Terminal List",
+    "year": "2022–",
+    "rating": 7.3,
+    "votes": 24000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmExMDQzODgtNTA4OC00NTE1LWI2MTktNTM1MzA5NWY0YzQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt12614214/"
+  },
+  {
+    "id": "tt12606172",
+    "title": "The Summer I Turned Pretty",
+    "year": "2022–",
+    "rating": 7.3,
+    "votes": 45000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzkzZGRkY2YtNjJmYS00YzUyLTg1ZGQtYTk1ZjRjNjIxMTAyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt12606172/"
+  },
+  {
+    "id": "tt9319668",
+    "title": "1899",
+    "year": "2022",
+    "rating": 7.3,
+    "votes": 120271,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2UyM2YwZTEtOTk5Zi00ODhkLTg2ZjctMzIxMTViZjFmN2Y4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt9319668/"
+  },
+  {
+    "id": "tt8253284",
+    "title": "Sweet Home",
+    "year": "2020–",
+    "rating": 7.3,
+    "votes": 65000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGFlMTVhZTQtNWU5Ny00YTRlLThjODYtNWMwYjRjYzA1Y2RlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt8253284/"
+  },
+  {
+    "id": "tt11377862",
+    "title": "Physical",
+    "year": "2021–2023",
+    "rating": 7.3,
+    "votes": 12000,
+    "poster": "https://m.media-amazon.com/images/G/01/IMDb/Mobile/DesktopQRCode-png.png",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt11377862/"
+  },
+  {
+    "id": "tt15525290",
+    "title": "Dear Edward",
+    "year": "2023",
+    "rating": 7.3,
+    "votes": 8000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDY2NjQ4Ml5BMl5BanBnXkFtZTgwNjg2ODI0MTI@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt15525290/"
+  },
+  {
+    "id": "tt14791984",
+    "title": "Hello Tomorrow!",
+    "year": "2023",
+    "rating": 7.3,
+    "votes": 10000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVmMDJkZjMtMjM3Ni00Y2JmLTkwNTctYmRlNGZkZjNkNmQ3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt14791984/"
+  },
+  {
+    "id": "tt16283434",
+    "title": "The Big Door Prize",
+    "year": "2023–2024",
+    "rating": 7.3,
+    "votes": 10000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmJlNDA4N2ItZTdiYy00OWI4LThmZjMtNmY1ZjVmYmIzYzk5XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt16283434/"
+  },
+  {
+    "id": "tt7456722",
+    "title": "Hunters",
+    "year": "2020–2023",
+    "rating": 7.2,
+    "votes": 55000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEzYzViNGMtYmY1ZS00MDY2LWEwM2MtNjI3MDM3ODZmMTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt7456722/"
+  },
+  {
+    "id": "tt6017688",
+    "title": "Forever",
+    "year": "2018",
+    "rating": 7.2,
+    "votes": 8000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDBmMWUyY2UtMTI4My00MjQyLWJhNDktZTk3OTJlNjRmMGYxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt6017688/"
+  },
+  {
+    "id": "tt11685776",
+    "title": "Outer Range",
+    "year": "2022–",
+    "rating": 7.2,
+    "votes": 35000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ4YmI4MDMtZmQ1Zi00NDNlLWIyYmMtNDVjOTNhZTdiMzZjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt11685776/"
+  },
+  {
+    "id": "tt10623522",
+    "title": "Paper Girls",
+    "year": "2022",
+    "rating": 7.2,
+    "votes": 25000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM1ZWM2ZDctYzUyNS00OWZhLTllMjUtNDg4NTE1NjUyY2M0XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt10623522/"
+  },
+  {
+    "id": "tt10169312",
+    "title": "The Wilds",
+    "year": "2020–2022",
+    "rating": 7.2,
+    "votes": 30000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzUyMGEyMWMtYWMwMC00YmYyLTkwYzctYWFjZjlhOWFiYjNjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt10169312/"
+  },
+  {
+    "id": "tt9421960",
+    "title": "Ratched",
+    "year": "2020",
+    "rating": 7.2,
+    "votes": 85000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2JjOTBhOTktYzc2ZC00MDQwLTk4ZDgtNDBjZmRkZmU4NDJlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt9421960/"
+  },
+  {
+    "id": "tt7462410",
+    "title": "The Wheel of Time",
+    "year": "2021–",
+    "rating": 7.2,
+    "votes": 161913,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ5Y2U2MWYtZDcyMi00YTk5LWEyYjItNTI3ODg4MTdlMjYwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt7462410/"
+  },
+  {
+    "id": "tt7134908",
+    "title": "Elite",
+    "year": "2018–2024",
+    "rating": 7.1,
+    "votes": 99000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTViZmMyNGUtZDhiMy00NGIxLTgzNzEtZmRhYjA4Y2E3NjIwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt7134908/"
+  },
+  {
+    "id": "tt10468248",
+    "title": "Three Pines",
+    "year": "2022",
+    "rating": 7.1,
+    "votes": 8000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE4YWY1MTMtYjMwZC00MDg4LWFiNDYtM2I2NjA5MzFmNTA1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt10468248/"
+  },
+  {
+    "id": "tt5397520",
+    "title": "The Society",
+    "year": "2019",
+    "rating": 7.1,
+    "votes": 1600,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxODgxMjI5N15BMl5BanBnXkFtZTgwMDc4MDc5NzE@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt5397520/"
+  },
+  {
+    "id": "tt10521112",
+    "title": "Schmigadoon!",
+    "year": "2021–2023",
+    "rating": 7.1,
+    "votes": 9000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGI2ODczY2ItYTExOC00YTFmLTlkOTQtNGJhYzIwZDJkYWJjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt10521112/"
+  },
+  {
+    "id": "tt6905686",
+    "title": "Lovecraft Country",
+    "year": "2020",
+    "rating": 7.1,
+    "votes": 50260,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTc2ZGI2MDItZGFjMC00MDU1LWI0NjktODhhYmU0MWViMDg1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt6905686/"
+  },
+  {
+    "id": "tt7569576",
+    "title": "The Flight Attendant",
+    "year": "2020–2022",
+    "rating": 7,
+    "votes": 66350,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjRjYjc3MDAtMWZiZC00M2NiLWE3ZTAtNjEyNzU0ZmZiYzlkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt7569576/"
+  },
+  {
+    "id": "tt17220216",
+    "title": "Monarch: Legacy of Monsters",
+    "year": "2023–",
+    "rating": 7,
+    "votes": 51479,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjk5ODBhMGYtNjg5ZC00ZWU2LWJkZWYtOTkzOGVlNTBhMTBkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt17220216/"
+  },
+  {
+    "id": "tt14271916",
+    "title": "Loot",
+    "year": "2022–",
+    "rating": 7,
+    "votes": 12000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGFlMTQ5N2QtMDgzZS00NzYwLTkxNmYtMDNlMTdmZGRhOWMyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt14271916/"
+  },
+  {
+    "id": "tt11986628",
+    "title": "Shining Girls",
+    "year": "2022",
+    "rating": 7,
+    "votes": 18000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjA1ZjBjNGItMzgyYS00Y2IzLWI2ZmEtOGZhMzMzYWJkMWJkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt11986628/"
+  },
+  {
+    "id": "tt14044212",
+    "title": "Mr. & Mrs. Smith",
+    "year": "2024–",
+    "rating": 7,
+    "votes": 55000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmQ0NmMyMDItZDNiNC00ZTBiLWI0ZDgtMTk5NDBmNmZhMDZmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt14044212/"
+  },
+  {
+    "id": "tt7631058",
+    "title": "The Lord of the Rings: The Rings of Power",
+    "year": "2022–",
+    "rating": 6.9,
+    "votes": 434000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmVmZGQ2ZTctYzE4NC00YzkxLThhNjYtNGIyZjJmZGEwMjUzXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt7631058/"
+  },
+  {
+    "id": "tt8962124",
+    "title": "Emily in Paris",
+    "year": "2020–",
+    "rating": 6.8,
+    "votes": 136050,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI5Y2YxM2UtZjhjYy00ZjM0LTg3NjQtYjQxMTBmZjM4ZTlkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt8962124/"
+  },
+  {
+    "id": "tt13332064",
+    "title": "A League of Their Own",
+    "year": "2022",
+    "rating": 6.8,
+    "votes": 12000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmVkODkzYjgtZDU1MC00YWYwLWJjYzQtMGVmMGYwMjc4NDM2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt13332064/"
+  },
+  {
+    "id": "tt7167682",
+    "title": "Too Old to Die Young",
+    "year": "2019",
+    "rating": 6.8,
+    "votes": 10000,
+    "poster": "https://m.media-amazon.com/images/G/01/IMDb/Mobile/DesktopQRCode-png.png",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt7167682/"
+  },
+  {
+    "id": "tt8440942",
+    "title": "Truth Be Told",
+    "year": "2019–2023",
+    "rating": 6.8,
+    "votes": 15000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGNlZTc4YjItOTk3Yi00ZWIzLTg0MzMtNjA3MzRlMGQ0MzA4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt8440942/"
+  },
+  {
+    "id": "tt13729220",
+    "title": "Extrapolations",
+    "year": "2023",
+    "rating": 6.8,
+    "votes": 4300,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMyMThjZmMtMGU3NS00ZTAyLWIzYmQtYjVmYTE1OWJlOGNiXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt13729220/"
+  },
+  {
+    "id": "tt2771372",
+    "title": "Cobra Kai",
+    "year": "2018–",
+    "rating": 6.7,
+    "votes": 56000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDc0Mjg4OV5BMl5BanBnXkFtZTgwODk3NjYyMTE@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "netflix",
+    "imdbUrl": "https://www.imdb.com/title/tt2771372/"
+  },
+  {
+    "id": "tt15440042",
+    "title": "Dead Ringers",
+    "year": "2023",
+    "rating": 6.7,
+    "votes": 15000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMyYWVhNmQtYjJjMC00ODI5LThmOGQtNzdlNDExMzkxMzEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt15440042/"
+  },
+  {
+    "id": "tt13023114",
+    "title": "Surface",
+    "year": "2022–",
+    "rating": 6.6,
+    "votes": 12000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWUxODYwYzQtMTc2Mi00MzE4LWI3OTctY2UxZjVmNjAyNGU3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt13023114/"
+  },
+  {
+    "id": "tt11645424",
+    "title": "Citadel",
+    "year": "2023–",
+    "rating": 6.5,
+    "votes": 62000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlMTRkNTQtZTQ1Mi00ZDkzLWE3YWYtYWQxZWIyMGNkNmQ0XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt11645424/"
+  },
+  {
+    "id": "tt13444912",
+    "title": "The Changeling",
+    "year": "2023",
+    "rating": 6.5,
+    "votes": 40043,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODZiOWMxZmItMjBiZS00NzExLTkxOWUtNDY4YjkzZjFjNmE3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt13444912/"
+  },
+  {
+    "id": "tt15552000",
+    "title": "Swarm",
+    "year": "2023",
+    "rating": 6.4,
+    "votes": 18000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MTBhNzktYjlkOC00NDIxLTk1YjQtZTYyOWY3ZDFjMzRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt15552000/"
+  },
+  {
+    "id": "tt14379064",
+    "title": "The Essex Serpent",
+    "year": "2022",
+    "rating": 6.4,
+    "votes": 8500,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NmMTRmODYtMmRlZC00NTU5LWJhY2ItMjNlZDE2NDY0M2UwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt14379064/"
+  },
+  {
+    "id": "tt18253406",
+    "title": "High Desert",
+    "year": "2023",
+    "rating": 6.3,
+    "votes": 5500,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRjOGNiYTktM2ExOS00NDY3LThlYWEtMjFkZWYwZjljMTczXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt18253406/"
+  },
+  {
+    "id": "tt15428778",
+    "title": "The Sympathizer",
+    "year": "2024–",
+    "rating": 6.2,
+    "votes": 18000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODdkNmZlMjQtZjVmZC00Yzk1LWFkNzMtZjVkNDkyZDJkZDY2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt15428778/"
+  },
+  {
+    "id": "tt9843310",
+    "title": "Suspicion",
+    "year": "2022",
+    "rating": 6.2,
+    "votes": 10000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFjNTFiZDktN2ZkMC00MjY5LTg1NzQtOTU1MjBkODVkZTM4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt9843310/"
+  },
+  {
+    "id": "tt9737326",
+    "title": "Invasion",
+    "year": "2021–",
+    "rating": 6.2,
+    "votes": 55793,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTU3ZTg4OTktODUyNi00N2U4LWIwYzYtNDAzZDE0MjgyOTM4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt9737326/"
+  },
+  {
+    "id": "tt8475604",
+    "title": "The Peripheral",
+    "year": "2022",
+    "rating": 5.8,
+    "votes": 152,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDcwNTNlNTMtZmU3Mi00M2YxLWIzYTktYzRlNGJkY2NiY2ZmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt8475604/"
+  },
+  {
+    "id": "tt13824538",
+    "title": "City on Fire",
+    "year": "2023",
+    "rating": 5.8,
+    "votes": 6000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmFkMzFlYWItZThkMC00NjZhLTg5MzYtM2FiODczMWY4NmExXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt13824538/"
+  },
+  {
+    "id": "tt10551622",
+    "title": "Liaison",
+    "year": "2023",
+    "rating": 5.8,
+    "votes": 6500,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NiMzNlZTctOGNkYi00ZTY3LWI3OTQtZjRmYjA1ZDE4YzQxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "apple",
+    "imdbUrl": "https://www.imdb.com/title/tt10551622/"
+  },
+  {
+    "id": "tt13406036",
+    "title": "The Regime",
+    "year": "2024",
+    "rating": 5.6,
+    "votes": 29000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjkxY2Y3NGUtNDQ4YS00NDMyLWE1NGQtYzAwZmRmYWFkNDc2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "hbo",
+    "imdbUrl": "https://www.imdb.com/title/tt13406036/"
+  },
+  {
+    "id": "tt12807626",
+    "title": "I Know What You Did Last Summer",
+    "year": "2021",
+    "rating": 4.9,
+    "votes": 12000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2MxZmYzMDItYzNkMS00YWY1LWIzNDktNTI3YTQxMGNjZjEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+    "platform": "amazon",
+    "imdbUrl": "https://www.imdb.com/title/tt12807626/"
+  }
+]
