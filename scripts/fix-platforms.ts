@@ -48,6 +48,7 @@ const PLATFORM_CORRECTIONS: Record<string, Platform | 'remove'> = {
   'Leyla and Mecnun': 'remove',  // TRT (türkisches TV), nicht Netflix
   'Leyla ile Mecnun': 'remove',  // TRT (türkisches TV), nicht Netflix
   'Bloodline': 'remove',  // Nicht Netflix Original
+  'Longmire': 'remove',  // A&E, später Netflix, aber kein Original
   
   // NBC/andere Networks
   'Parks and Recreation': 'remove',
