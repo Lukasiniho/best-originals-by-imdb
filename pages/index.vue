@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { Badge } from '@/components/ui/badge'
 import type { Series, Platform } from '~/types/series'
+import allSeriesData from '~/data/all.json'
 
 const currentPlatform = ref<Platform | 'all'>('all')
 
@@ -12,22 +13,23 @@ const platforms: Array<{ key: Platform | 'all'; label: string }> = [
   { key: 'hbo', label: 'HBO' },
 ]
 
-// Load all series once
-const { data, pending, error } = await useFetch('/api/series', {
-  query: { platform: 'all', sort: 'rating', order: 'desc' },
+// Load all series directly from JSON file (works in static builds)
+const allSeries = computed(() => {
+  // Sort by rating descending
+  const sorted = [...(allSeriesData as Series[])].sort((a, b) => b.rating - a.rating)
+  return sorted
 })
-
-const allSeries = computed(() => data.value?.series || [])
 
 // Client-side filtering - instant, no reload
 const filteredSeries = computed(() => {
-  if (currentPlatform.value === 'all') {
-    return allSeries.value
+  let series = allSeries.value
+  if (currentPlatform.value !== 'all') {
+    series = series.filter(s => s.platform === currentPlatform.value)
   }
-  return allSeries.value.filter(s => s.platform === currentPlatform.value)
+  return series
 })
 
-const platformColors: Record<Platform, string> = {
+const platformColors: Record<Platform, 'netflix' | 'amazon' | 'apple' | 'hbo'> = {
   netflix: 'netflix',
   amazon: 'amazon',
   apple: 'apple',
@@ -99,18 +101,8 @@ const isOngoing = (year: string): boolean => {
         </button>
       </div>
 
-      <!-- Loading State -->
-      <div v-if="pending" class="flex items-center justify-center py-20">
-        <div class="text-muted-foreground animate-pulse">Lädt Serien...</div>
-      </div>
-
-      <!-- Error State -->
-      <div v-else-if="error" class="flex items-center justify-center py-20">
-        <div class="text-destructive">Fehler beim Laden der Daten</div>
-      </div>
-
       <!-- Series List -->
-      <div v-else class="space-y-3">
+      <div class="space-y-3">
           <a
             v-for="(item, index) in filteredSeries"
             :key="item.id"
