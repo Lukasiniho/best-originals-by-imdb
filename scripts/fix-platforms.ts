@@ -47,6 +47,7 @@ const PLATFORM_CORRECTIONS: Record<string, Platform | 'remove'> = {
   'Fraggle Rock': 'remove',  // HBO/Jim Henson 1983, nicht Apple TV+
   'Leyla and Mecnun': 'remove',  // TRT (türkisches TV), nicht Netflix
   'Leyla ile Mecnun': 'remove',  // TRT (türkisches TV), nicht Netflix
+  'Bloodline': 'remove',  // Nicht Netflix Original
   
   // NBC/andere Networks
   'Parks and Recreation': 'remove',
